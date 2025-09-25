@@ -7,3 +7,4 @@
 ## prac5
 fetch & merge
 A
+B
