@@ -9,4 +9,3 @@ print("이름:", name)
 print("학번:", student_id)
 print("학과:", major)
 print("학교:", school)
-
